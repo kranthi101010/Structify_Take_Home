@@ -4,6 +4,6 @@ There are many thoughts and approaches that I tried and implement and finally co
 
 Optimal Appraoch (Coded Solution):
 * The solution is built on the basic idea that if a chord starts after the start of an other chord but before it ends, and ends after the first chord ends then these chords definately intersect.
-* ![Screenshot](screenshot.png)
+* ![Screenshot](sc1.png)
 
 
